@@ -40,3 +40,9 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+
+.main_pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
