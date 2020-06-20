@@ -41,7 +41,7 @@ a:link, a:visited {
   display: inline-block;
 }
 
-.main_pic {
+.main_pic, .proj_{
   display: block;
   margin-left: auto;
   margin-right: auto;
