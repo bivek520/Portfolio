@@ -1,9 +1,10 @@
-# To Do List
+# Purpose
 
-An Android "to-do list" application built for my CS 441 - Mobile App Development course.
+Built to display my info and my project
+
+Check out my portfolio on https://bivek520.github.io/Portfolio/
 
 # What I Learned
 
-* Developed a user interface within the xml file using RelativeLayout, ListView, EditText, & Button.
-* Implemented functinality to the UI: onCreate, onAddItem, setupListViewListener, readItems, & writeItems.
-* Integrated setOnItemLongClickListener to remove items from the list.
+* Built the page using HTML
+* Implemented CSS to describe the style of the webpage
